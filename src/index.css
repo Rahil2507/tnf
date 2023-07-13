@@ -1,0 +1,14 @@
+#navbar {
+  /* background-color: white; */
+  background: transparent;
+  position: fixed;
+  top: 500;
+  width: 100%;
+  transition: top 0.5s;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
